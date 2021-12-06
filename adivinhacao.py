@@ -14,4 +14,3 @@ else:
     print("Você errou!")
 
 print("Fim do jogo")
-1

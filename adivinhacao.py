@@ -28,4 +28,4 @@ for rodada in range(1, total_de_tentativas + 1):
         elif(chutou_abaixo):
             print("Você errou, o número secreto é maior!")
 
-print("Fim do jogo")
+print("Fim do jogo")..............................................................................................................................................

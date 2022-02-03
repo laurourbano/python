@@ -1,0 +1,8 @@
+d = float(input('Uma distância em metros: '))
+km = float(d / 1000)
+hm = float(d / 100)
+dam = float(d / 10)
+dm = float(d * 10)
+cm = float(d * 100)
+mm = float(d * 1000)
+print('\nA medida de 'f'{d}m corresponde a:\n'f'{km}km\n'f'{hm}hm\n'f'{dam}dam\n'f'{dm:.0f}dm\n'f'{cm:.0f}cm\n'f'{mm:.0f}mm\n\nObrigado por utilizar este programa!\n\n')
